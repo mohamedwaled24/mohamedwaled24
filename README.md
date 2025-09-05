@@ -1,4 +1,5 @@
-<h4 align="left">Hey Whats Up ?</h4>
+🙋‍♂️ About Me
+<h4 align="left">Hey 👋 Whats Up ?</h4>
 
 ###
 
@@ -10,7 +11,8 @@
 
 ###
 
-<p align="left">I'm a passionate and results-driven Full-Stack Developer with a focus on the MERN Stack (MongoDB, Express.js, React, Node.js). I specialize in building scalable, high-performance web applications with clean, maintainable code. I enjoy solving real-world problems and continuously learning modern technologies to sharpen my skills and deliver value through code.<br><br>Currently exploring advanced front-end architectures, state management solutions, and best practices in full-stack development.<br>💻 Frontend<br><br>⚛️ React.js  |  🔼 Next.js  |  🧱 HTML5  |  🎨 CSS3  |  🧠 JavaScript  |  🌬️ Tailwind CSS<br>🧩 Material UI (MUI)  |  🐻 Zustand  |  🗂️ Redux<br><br>🧠 Backend<br><br>🟢 Node.js  |  🚂 Express.js  |  🔗 REST APIs  |  🔐 JWT  |  📡 Socket.io<br><br>🗄️ Database<br><br>🍃 MongoDB  |  🔍 Mongoose<br><br>🧰 Tools & Platforms<br><br>🐙 Git  |  📁 GitHub  |  🧑‍💻 VS Code  |  📬 Postman  |  ▲ Vercel  |  🕸️ Netlify</p>
+<p align="left">I'm a passionate and results-driven Full-Stack Developer with a focus on the MERN Stack (MongoDB, Express.js, React, Node.js). I specialize in building scalable, high-performance web applications with clean, maintainable code. I enjoy solving real-world problems and continuously learning modern technologies to sharpen my skills and deliver value through code.<br><br>Currently exploring advanced front-end architectures, state management solutions, and best practices in full-stack development.
+<br>💻 Frontend<br><br>⚛️ React.js  |  🔼 Next.js  |  🧱 HTML5  |  🎨 CSS3  |  🧠 JavaScript  |  🌬️ Tailwind CSS<br>🧩 Material UI (MUI)  |  🐻 Zustand  |  🗂️ Redux<br><br>🧠 Backend<br><br>🟢 Node.js  |  🚂 Express.js  |  🔗 REST APIs  |  🔐 JWT  |  📡 Socket.io<br><br>🗄️ Database<br><br>🍃 MongoDB  |  🔍 Mongoose<br><br>🧰 Tools & Platforms<br><br>🐙 Git  |  📁 GitHub  |  🧑‍💻 VS Code  |  📬 Postman  |  ▲ Vercel  |  🕸️ Netlify</p>
 
 ###
 
